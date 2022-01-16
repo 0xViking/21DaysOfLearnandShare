@@ -1,7 +1,8 @@
 #21DaysOfLearnandShare
 A challenge to myself to learn and share resources about the topic i choose
 
-You can find the article about #21DaysOfLearnandShare here 
+You can find the article about #21DaysOfLearnandShare here:
+
 https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 
 | Date       | Name         | Link                                                         |
