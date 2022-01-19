@@ -11,7 +11,7 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 16-01-2022 | WTF is WEB3?           | https://bit.ly/WTFisWEB3           |
 | 17-01-2022 | WTF is Blockchain?     | https://bit.ly/WTFisBLOCKCHAIN     |
 | 18-01-2022 | WTF is CRYPTOCURRENCY? | https://bit.ly/WTFisCRYPTOCURRENCY |
-| 19-01-2022 |                        |                                    |
+| 19-01-2022 | WTF is BITCOIN?        | https://bit.ly/WTFisBITCOIN        |
 | 20-01-2022 |                        |                                    |
 | 21-01-2022 |                        |                                    |
 | 22-01-2022 |                        |                                    |
