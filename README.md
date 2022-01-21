@@ -13,7 +13,7 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 18-01-2022 | WTF is CRYPTOCURRENCY? | https://bit.ly/WTFisCRYPTOCURRENCY |
 | 19-01-2022 | WTF is BITCOIN?        | https://bit.ly/WTFisBITCOIN        |
 | 20-01-2022 | WTF is ETHEREUM Part-1 | https://bit.ly/WTFisETHEREUM-P1    |
-| 21-01-2022 |                        |                                    |
+| 21-01-2022 | WTF is SMART CONTRACT? | https://bit.ly/WTFisSMARTCONTRACT  |
 | 22-01-2022 |                        |                                    |
 | 23-01-2022 |                        |                                    |
 | 24-01-2022 |                        |                                    |
