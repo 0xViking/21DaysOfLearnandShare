@@ -21,7 +21,7 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 26-01-2022 | WTF is DAO?               | https://bit.ly/WTFisDAO             |
 | 27-01-2022 | WTF is ERC-20, 721, 1155? | https://bit.ly/WTFisERC-20-721-1155 |
 | 28-01-2022 | WTF is ORACLE             | https://bit.ly/WTFisORACLE          |
-| 29-01-2022 |                           |                                     |
+| 29-01-2022 | WTF is LAYER 2 SCALING?   | https://bit.ly/WTFisLAYER2          |
 | 30-01-2022 |                           |                                     |
 | 31-01-2022 |                           |                                     |
 | 01-02-2022 |                           |                                     |
