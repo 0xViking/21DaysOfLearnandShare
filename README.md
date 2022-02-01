@@ -24,7 +24,7 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 29-01-2022 | WTF is LAYER 2 SCALING?   | https://bit.ly/WTFisLAYER2          |
 | 30-01-2022 | WTF is IPFS?              | https://bit.ly/WTFisIPFS            |
 | 31-01-2022 | WTF is CONSENSUS?         | https://bit.ly/WTFisCONSENSUS       |
-| 01-02-2022 |                           |                                     |
+| 01-02-2022 | WTF is ENS?               | https://bit.ly/WTFisENS             |
 | 02-02-2022 |                           |                                     |
 | 03-02-2022 |                           |                                     |
 | 04-02-2022 |                           |                                     |
