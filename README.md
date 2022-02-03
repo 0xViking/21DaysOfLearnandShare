@@ -26,6 +26,6 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 31-01-2022 | WTF is CONSENSUS?         | https://bit.ly/WTFisCONSENSUS       |
 | 01-02-2022 | WTF is ENS?               | https://bit.ly/WTFisENS             |
 | 02-02-2022 | WTF is BRIDGE?            | https://bit.ly/WTFisBRIDGE          |
-| 03-02-2022 |                           |                                     |
+| 03-02-2022 | WTF is ETH2?              | https://bit.ly/WTFisETH2            |
 | 04-02-2022 |                           |                                     |
 | 05-02-2022 |                           |                                     |
