@@ -27,5 +27,5 @@ https://0xviking.hashnode.dev/21-days-of-learn-and-share-21dols
 | 01-02-2022 | WTF is ENS?               | https://bit.ly/WTFisENS             |
 | 02-02-2022 | WTF is BRIDGE?            | https://bit.ly/WTFisBRIDGE          |
 | 03-02-2022 | WTF is ETH2?              | https://bit.ly/WTFisETH2            |
-| 04-02-2022 |                           |                                     |
+| 04-02-2022 | HOW to be SAFU?           | https://bit.ly/HOWtobeSAFU          |
 | 05-02-2022 |                           |                                     |
